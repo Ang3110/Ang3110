@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ang3110
 - 👀 I’m interested in building Computers and some coding
-- 🌱 I’m currently learning decorates
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on coding projects
